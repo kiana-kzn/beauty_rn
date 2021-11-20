@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "727789099539",
+    "project_id": "babershopfacebook",
+    "storage_bucket": "babershopfacebook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727789099539:android:aecfcbd1f6c6bc21373de6",
+        "android_client_info": {
+          "package_name": "com.beauty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727789099539-s0a6o0vsb7gq731itdmulps3ak0i985o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGkUA2Q4JlKGRhhpiH4zmMgIdIKmqyJFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727789099539-s0a6o0vsb7gq731itdmulps3ak0i985o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727789099539:android:6f635d2149c90421373de6",
+        "android_client_info": {
+          "package_name": "com.firebasefacebookauth.barbershop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727789099539-s0a6o0vsb7gq731itdmulps3ak0i985o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGkUA2Q4JlKGRhhpiH4zmMgIdIKmqyJFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727789099539-s0a6o0vsb7gq731itdmulps3ak0i985o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
