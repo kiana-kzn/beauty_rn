@@ -27,7 +27,7 @@
     "moment": "^2.29.1",
     "npm": "^7.23.0",
     "react": "17.0.2",
-    "react-native": "0.65.1",
+    "react-native": "0.70.1",
     "react-native-animated-splash-screen": "^2.0.5",
     "react-native-app-intro-slider": "^4.0.4",
     "react-native-chip": "^2.1.8",
